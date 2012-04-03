@@ -1,0 +1,11 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+lib/WWW/Salesforce.pm
+lib/WWW/Salesforce/Constants.pm
+lib/WWW/Salesforce/Deserializer.pm
+lib/WWW/Salesforce/Serializer.pm
+lib/WWW/Salesforce/Simple.pm
+t/WWW-Salesforce.t
+META.yml                                 Module meta-data (added by MakeMaker)
