@@ -12,6 +12,7 @@ WriteMakefile(
     PREREQ_PM         => {
         'Crypt::SSLeay' => 0.56,
         'SOAP::Lite'    => 0.68,
+        'MIME::Base64'  => 0,
     },
     ABSTRACT_FROM => 'lib/WWW/Salesforce.pm',
     AUTHOR => 'Chase Whitener <cwhitener@gmail.com>',

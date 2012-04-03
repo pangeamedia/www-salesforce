@@ -10,6 +10,7 @@ configure_requires:
     ExtUtils::MakeMaker:  0
 build_requires:
     ExtUtils::MakeMaker:  0
+    MIME::Base64:         0
 requires:
     Crypt::SSLeay:  0.56
     SOAP::Lite:     0.68
